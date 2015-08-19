@@ -1,0 +1,3 @@
+Plugin 'unblevable/quick-scope'
+Plugin 'easymotion/vim-easymotion'
+Plugin 'scrooloose/nerdcommenter'
